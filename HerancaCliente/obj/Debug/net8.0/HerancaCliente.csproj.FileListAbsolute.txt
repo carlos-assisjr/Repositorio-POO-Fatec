@@ -1,0 +1,14 @@
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\HerancaCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\HerancaCliente.AssemblyInfoInputs.cache
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\HerancaCliente.AssemblyInfo.cs
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\HerancaCliente.csproj.CoreCompileInputs.cache
+D:\POO_252_noite\HerancaCliente\bin\Debug\net8.0\HerancaCliente.exe
+D:\POO_252_noite\HerancaCliente\bin\Debug\net8.0\HerancaCliente.deps.json
+D:\POO_252_noite\HerancaCliente\bin\Debug\net8.0\HerancaCliente.runtimeconfig.json
+D:\POO_252_noite\HerancaCliente\bin\Debug\net8.0\HerancaCliente.dll
+D:\POO_252_noite\HerancaCliente\bin\Debug\net8.0\HerancaCliente.pdb
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\HerancaCliente.dll
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\refint\HerancaCliente.dll
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\HerancaCliente.pdb
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\HerancaCliente.genruntimeconfig.cache
+D:\POO_252_noite\HerancaCliente\obj\Debug\net8.0\ref\HerancaCliente.dll
